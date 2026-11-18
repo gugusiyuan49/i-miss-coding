@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+node_modules/
+# local eval transcripts from scripts/eval.py
+eval-runs/
+# data file the demo CLI writes when you run it
+examples/demo-task/expenses.csv
